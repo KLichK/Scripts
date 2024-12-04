@@ -1,5 +1,6 @@
 # Scripts
-Para facilitar sua vida de estudante
+Khan precisa-se do khanware, cmsp use o https://doritus.mmrcoss.tech/
+Matific use https://matific.cupiditys.lol/
 
 # Me-Salva-Cheeto
 script pra colocar no tampermonkey pique script antigo do cmsp que auto seleciona resposta no Me Salva
